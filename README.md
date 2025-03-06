@@ -6,7 +6,6 @@
 🔹 Exploring Python, MML,  R, and Data Visualization  
 
 ## 🚀 Projects  
-- **NYC Flights Analysis** - Data analysis on flight patterns using R.
 - **Energy Consumption** - Predicting Energy consumption using Multi Linear Regression.  
  - **Diabetes Analysis** – Predicting diabetes in female patients using Logistic Regression, based on several health indicators.
 
